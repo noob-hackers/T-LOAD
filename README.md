@@ -48,11 +48,14 @@ $ bash t-load.sh
 ```
 ```
 * After the installation succesfully completes you will see a THANKS text on screen after that a new text appears 
-
+```
+```
 * EXIT FROM TERMUX AFTER 5 SECONDS AND RE-OPEN IT after seeing this just exit from termux and re open it 
-
+```
+```
 Now you can see a new loading screen of termux and you can feel real hacking terminal Sound+New interface with banner. 
-
+```
+```
 Note:- Don't delete any of the audio files from your sdcard/internal storage or else you cannot feel the terminal startup sound
 ```
 ```
