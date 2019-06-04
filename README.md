@@ -58,7 +58,6 @@ Now you can see a new loading screen of termux and you can feel real hacking ter
 ```
 Note:- Don't delete any of the audio files from your sdcard/internal storage or else you cannot feel the terminal startup sound
 ```
-```
 ### Subscribe our channel on youtube
 https://www.youtube.com/noobhackers
 
