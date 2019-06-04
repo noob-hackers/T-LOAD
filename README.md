@@ -20,6 +20,9 @@ T-LOAD is a bash based script which modifies and changes your terminal from bori
 
 ### Installation and usage guide
 ```
+$ termux-setup-storage
+```
+```
 $ apt-get update -y
 ```
 ```
