@@ -59,7 +59,7 @@ cd T-LOAD
 
 ls
 
-cp load.mp3 /sdcard
+cp scifi.mp3 /sdcard
 
 clear
 bash packages.sh
