@@ -33,6 +33,7 @@ echo -e  "            \e[1m\e[32m--------->[\e[31myoutube.com/noobhackers\e[1m\e
 echo " "
 echo ""
 sleep 8.0
+termux-setup-storage
 cd  /data/data/com.termux/files/usr/etc
 
 rm bash.bashrc
