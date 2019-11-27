@@ -84,5 +84,3 @@ echo " "
 echo " "
 sleep 3.0
 cd $HOME
-rm -rf T-LOAD 
-sleep 1.0
