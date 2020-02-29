@@ -26,7 +26,7 @@ echo""
 echo""
 echo""
 echo "               "/█1%...................../
-sleep 1.0
+sleep 0.5
 clear
 echo " "
 echo " "
@@ -51,7 +51,7 @@ echo " "
 echo " "
 echo " "
 echo "                "/█4%....................../
-sleep 1.0
+sleep 0.5
 clear
 echo " "
 echo " "
@@ -77,7 +77,7 @@ echo " "
 echo " "
 echo " "
 echo "                "/█8%......................./
-sleep 1.0
+sleep 0.5
 clear
 echo " "
 echo " "
@@ -102,7 +102,7 @@ echo " "
 echo " "
 echo " "
 echo "                "/██10%....................../
-sleep 1.0
+sleep 0.5
 clear
 echo " "
 echo " "
@@ -127,7 +127,7 @@ echo " "
 echo " "
 echo " "
 echo "                "/██12%....................../
-sleep 1.0
+sleep 0.5
 clear
 echo " "
 echo " "
@@ -152,7 +152,7 @@ echo " "
 echo " "
 echo " "
 echo "                "/███15%..................../
-sleep 1.0
+sleep 0.5
 clear
 echo " "
 echo " "
@@ -177,7 +177,7 @@ echo " "
 echo " "
 echo " "
 echo "               "/█████19%..................../
-sleep 1.0
+sleep 0.5
 clear
 echo " "
 echo " "
@@ -202,7 +202,7 @@ echo " "
 echo " "
 echo " "
 echo "               "/██████28%..................../
-sleep 1.0
+sleep 0.5
 clear
 echo " "
 echo " "
@@ -227,7 +227,7 @@ echo " "
 echo " "
 echo " "
 echo "                "/████████30%................../
-sleep 1.0
+sleep 0.5
 clear
 echo " "
 echo " "
@@ -251,7 +251,7 @@ echo " "
 echo " "
 echo " "
 echo "                "/██████████40%................/
-sleep 1.0
+sleep 0.5
 clear
 echo " "
 echo " "
@@ -276,7 +276,7 @@ echo " "
 echo " "
 echo " "
 echo "                "/█████████████50%............./
-sleep 1.0
+sleep 0.5
 clear
 echo " "
 echo " "
@@ -301,7 +301,7 @@ echo " "
 echo " "
 echo " "
 echo "                "/████████████████60%........../
-sleep 1.0
+sleep 0.5
 clear
 echo " "
 echo " "
@@ -326,7 +326,7 @@ echo " "
 echo " "
 echo " "
 echo "                "/███████████████████88%......./
-sleep 1.0
+sleep 0.5
 clear
 echo " "
 echo " "
@@ -384,5 +384,5 @@ echo ""
 echo ""
 echo ""
 echo ""
-sleep 1.0
+sleep 0.5
 mpv /sdcard/scifi.mp3
