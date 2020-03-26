@@ -11,7 +11,7 @@ echo " "
 pkg install nano -y
 echo " "
 pkg install ruby -y
-echo " "
+echo " "bdjdjdhdhsjhsgsjsgshshsvhhsjshsgshdjs
 gem install lolcat
 echo " "
 pkg install nano -y
