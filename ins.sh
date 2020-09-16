@@ -1,5 +1,5 @@
 #!data/data/com.termux/files/etc
-#Tool By Noob Hackers 
+#Tool BY MR RAVANAN
 #ThAnKS For Supporting 
 ################
 cyn='\e[0;36m'
