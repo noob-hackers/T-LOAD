@@ -72,7 +72,7 @@ bash rvt.sh
 ```
 
 ### Subscribe our channel on youtube
-rebrand.ly/noobhackers
+https://rebrand.ly/noobhackers
 
 ### Chekout our webite 
 https://www.noob-hackers.com
