@@ -75,7 +75,7 @@ T-load is a bash based script which modifies and changes your terminal from bori
 ## USAGE OPTIONS [Termux] :
 
 __TYPE NAME__ :
-- Here type your name whuch you want to show in your terminal.
+- Here type your name which you want to show in your terminal.
 
 ## SCREEN SHOTS [Termux]
 
