@@ -81,8 +81,8 @@ __TYPE NAME__ :
 
 <br>
 <p align="center">
-<img width="45%" src="https://user-images.githubusercontent.com/49580304/96587878-c1758c00-1297-11eb-86a5-dbcd006c3c0a.jpg"/>
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/96587871-bd496e80-1297-11eb-9787-79c30482c9a6.jpg"/>
+<img width="50%" src="https://user-images.githubusercontent.com/49580304/96587878-c1758c00-1297-11eb-86a5-dbcd006c3c0a.jpg"/>
+<img width="45%" src="https://user-images.githubusercontent.com/49580304/96587871-bd496e80-1297-11eb-9787-79c30482c9a6.jpg"/>
 </p>
 
 ## WATCH VIDEO [Termux]
