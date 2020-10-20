@@ -1,82 +1,111 @@
-<h1 align="center">T-LOAD v1.1</h1>
 <p align="center">
-      New advanced terminal for Termux users with simple steps
+<a href="https://bit.ly/3jPqXEB"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://bit.ly/3jPqXEB"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Tload-green.svg"></a>
+<a href="https://bit.ly/3jPqXEB"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
+<a href="https://bit.ly/3jPqXEB"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+</p>
+<p align="center">
+<a href="https://bit.ly/3jPqXEB"><img title="T-load" src="https://user-images.githubusercontent.com/49580304/96587896-c6d2d680-1297-11eb-9fbf-c7de278d8aac.jpg"></a>
+</p>
+<p align="center">
+<a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+</p>
+<p align="center">
+<a href="https://github.com/noob-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
+<a href="https://github.com/noob-hackers"><img title="Followers" src="https://img.shields.io/github/followers/noob-hackers?color=blue&style=flat-square"></a>
+<a href="https://github.com/noob-hackers"><img title="Stars" src="https://img.shields.io/github/stars/noob-hackers/T-LOAD?color=red&style=flat-square"></a>
+<a href="https://github.com/noob-hackers"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/T-LOAD?color=red&style=flat-square"></a>
+<a href="https://github.com/noob-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/T-LOAD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
-## About T-LOAD :
+## ABOUT TOOL :
 
-T-LOAD is a bash based script which modifies and changes your terminal from boring to awesome in just oneclick without any issue and without root. This tool works on both rooted Android device and Non-rooted Android device.
+T-load is a bash based script which modifies and changes your terminal from boring to awesome in just oneclick without any issue and without root. This tool works on both rooted Android device and Non-rooted Android device.
 
-[![Build Status](https://img.shields.io/github/stars/noob-hackers/T-LOAD.svg)](https://github.com/noob-hackers/T-LOAD)
-[![Build Status](https://img.shields.io/github/forks/noob-hackers/T-LOAD.svg)](https://github.com/noob-hackers/T-LOAD)
-[![License: MIT](https://img.shields.io/github/license/noob-hackers/T-LOAD.svg)](https://github.com/noob-hackers/T-LOAD)
-[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#T-LOAD)
-
-![photo_2019-06-04_18-59-31](https://user-images.githubusercontent.com/49580304/58883803-c6ff2000-86fc-11e9-8897-362830f1781d.jpg)
-
-### T-LOAD is available for
+## AVAILABLE ON :
 
 * Termux
 
-### Installation and usage guide
+### TESTED ON :
+
+* Termux
+
+### REQUIREMENTS :
+* internet
+* storage 400 MB
+
+## FEATURES :
+* [+] New interface !
+* [+] Updated maintainence !
+* [+] Attractive termux !
+* [+] Easy for Beginners !
+
+## INSTALLATION [Termux] :
+
+* `apt-get update -y`
+* `apt-get upgrade -y`
+* `pkg install python -y`
+* `pkg install python2 -y`
+* `pkg install git -y`
+* `pip install lolcat`
+* ` git clone https://github.com/noob-hackers/T-LOAD`
+* `cd $HOME`
+* `ls`
+* `cd T-LOAD`
+* `ls`
+* `bash t-load.sh`
 ```
-```
-$ apt-get update -y
-```
-```
-$ apt-get upgrade -y
-```
-```
-$ pkg install git -y
-```
-```
-$ git clone https://github.com/noob-hackers/T-LOAD
-```
-```
-$ ls
-```
-```
-$ cd T-LOAD
-```
-```
-$ ls
-```
-```
-$ bash t-load.sh
-```
-```
-* Now make sue that you internet connection is on and after that the installation starts automatically
-```
-```
-* After the installation succesfully completes you will see a THANKS text on screen after that a new text appears 
-```
-```
-* EXIT FROM TERMUX AFTER 5 SECONDS AND RE-OPEN IT after seeing this just exit from termux and re open it 
-```
-```
-Now you can see a new loading screen of termux and you can feel real hacking terminal Sound+New interface with banner. 
-```
-```
-Note:- Don't delete any of the audio files from your sdcard/internal storage or else you cannot feel the terminal startup sound
-```
-```
-To revert/to get back into normal termux mode use this commands
-```
-```
-cd T-LOAD
-```
-ls
-```
-bash rvt.sh
-```
+[+]--Now make sue that you internet connection is on and after that the installation starts automatically
+[+]--After the installation succesfully completes you will see a THANKS text on screen after that a new text appears
+[+]--EXIT FROM TERMUX AFTER 5 SECONDS AND RE-OPEN IT after seeing this just exit from termux and re open it
+[+]--Now you can see a new loading screen of termux and you can feel real hacking terminal Sound+New interface with banner.
+[+]--Note:- Don't delete any of the audio files from your sdcard/internal storage or else you cannot feel the terminal startup sound
 ```
 
-### Subscribe our channel on youtube
-https://rebrand.ly/noobhackers
+`To revert/to get back into normal termux mode use this commands`
 
-### Chekout our webite 
-https://www.noob-hackers.com
-     
-### Warning
+* `cd T-LOAD`
+* `ls`
+* `bash rvt.sh`
 
+## USAGE OPTIONS [Termux] :
+
+__TYPE NAME__ :
+- Here type your name whuch you want to show in your terminal.
+
+## SCREEN SHOTS [Termux]
+
+<br>
+<p align="center">
+<img width="45%" src="https://user-images.githubusercontent.com/49580304/96587878-c1758c00-1297-11eb-86a5-dbcd006c3c0a.jpg"/>
+<img width="50%" src="https://user-images.githubusercontent.com/49580304/96587871-bd496e80-1297-11eb-9787-79c30482c9a6.jpg"/>
+</p>
+
+## WATCH VIDEO [Termux]
+
+[![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://bit.ly/3jPqXEB)
+
+## CONNECT WITH US :
+
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/nakeeb.nitro.35)
+<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rebrand.ly/insgrm)
+[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://rebrand.ly/noobwebs)
+[![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://rebrand.ly/linkedinprof)
+[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://rebrand.ly/fsbpage)
+[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://rebrand.ly/telegramchnl)
+[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://rebrand.ly/hckrgroups)
+<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+
+## BUY ME A COFFEE :
+
+<p align="center">
+<a href="https://rebrand.ly/BuyCoffee"><img title="Noob Hackers" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
+</p>
+
+## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
