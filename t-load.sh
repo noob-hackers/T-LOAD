@@ -1,6 +1,5 @@
-#!Script  author N117R0
-#By noob hackers
-#Be a creative person not copy paster
+#!Script
+#By ท่านหลอด
 
 ###################################
 cyan='\e[0;36m'
@@ -29,7 +28,7 @@ echo -e "\e[1m\e[31m\
 echo " "  
 echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mN17R0 \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31mYOUTUBE- Noob Hackers\e[1m\e[32m]<----------"  
+echo -e  "            \e[1m\e[32m--------->[\e[31mFB:กูมีนาม'ว่า ท่านหลอด'ด\e[1m\e[32m]<----------"  
 echo " "
 echo ""
 sleep 8.0
