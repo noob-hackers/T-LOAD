@@ -94,7 +94,7 @@ __TYPE NAME__ :
 
 ## CONNECT WITH US :
 
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://rebrand.ly/fbmsnger)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/Nitish.kumar.sahni.54390)
 <a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/Alpha-hackers-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/_________killer____lover______?igshid=ZDdkNTZiNTM=)
 [![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://instagram.com/_________killer____lover______?igshid=ZDdkNTZiNTM=)
