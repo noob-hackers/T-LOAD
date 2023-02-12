@@ -10,15 +10,15 @@
 <a href="https://bit.ly/3jPqXEB"><img title="T-load" src="https://user-images.githubusercontent.com/49580304/96587896-c6d2d680-1297-11eb-9fbf-c7de278d8aac.jpg"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Alpha-hackers"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/alphahackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://github.com/Alpha-hackers"><img title="Github" src="https://img.shields.io/badge/Alpha-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/alphahackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-tech.org112-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Alpha-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
 <a href="https://github.com/Alpha-hackers"><img title="Followers" src="https://img.shields.io/github/followers/noob-hackers?color=blue&style=flat-square"></a>
-<a href="https://github.com/Alpha-hackers"><img title="Stars" src="https://img.shields.io/github/stars/noob-hackers/T-LOAD?color=red&style=flat-square"></a>
-<a href="https://github.com/Alpha-hackers"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/T-LOAD?color=red&style=flat-square"></a>
-<a href="https://github.com/Alpha-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/T-LOAD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Alpha-hackers"><img title="Stars" src="https://img.shields.io/github/stars/Alpha-hackers/T-LOAD?color=red&style=flat-square"></a>
+<a href="https://github.com/Alpha-hackers"><img title="Forks" src="https://img.shields.io/github/forks/Alpha-hackers/T-LOAD?color=red&style=flat-square"></a>
+<a href="https://github.com/Alpha-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/Alpha-hackers/T-LOAD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Alpha-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
@@ -95,15 +95,15 @@ __TYPE NAME__ :
 ## CONNECT WITH US :
 
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://rebrand.ly/fbmsnger)
-<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rebrand.ly/insgrm)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://rebrand.ly/noobwebs)
-[![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://rebrand.ly/linkedinprof)
-[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://rebrand.ly/fsbpage)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://rebrand.ly/telegramchnl)
-[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://rebrand.ly/hckrgroups)
-[![Instagram](https://img.shields.io/badge/DISCUSSION-FORUM-blue?style=for-the-badge&logo=forum)](https://rebrand.ly/nhforums)
-<a href="https://rebrand.ly/tech.org112"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/Alpha-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/_________killer____lover______?igshid=ZDdkNTZiNTM=)
+[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://instagram.com/_________killer____lover______?igshid=ZDdkNTZiNTM=)
+[![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://instagram.com/_________killer____lover______?igshid=ZDdkNTZiNTM=)
+[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://instagram.com/_________killer____lover______?igshid=ZDdkNTZiNTM=)
+[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://instagram.com/_________killer____lover______?igshid=ZDdkNTZiNTM=)
+[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://instagram.com/_________killer____lover______?igshid=ZDdkNTZiNTM=)
+[![Instagram](https://img.shields.io/badge/DISCUSSION-FORUM-blue?style=for-the-badge&logo=forum)](https://instagram.com/_________killer____lover______?igshid=ZDdkNTZiNTM=)
+<a href="https://rebrand.ly/tech.org112"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Alpha Hackers-red?style=for-the-badge&logo=Youtube"></a>
 
 ## BUY ME A COFFEE :
 
